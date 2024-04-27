@@ -1,0 +1,23 @@
+.jumbotron {
+  background-color: DarkGray;
+}
+body {
+  background-color: LightGray;
+}
+
+.jumbotron a {
+  color: #111;
+}
+
+nav a {
+  color: #9b9b9b;
+}
+
+.red-title {
+  color: #ff0000;
+  font-weight: bolder;
+}
+
+.cool-text em {
+  color:#ff0000
+}
