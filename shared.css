@@ -18,6 +18,7 @@ nav a {
   font-weight: bolder;
 }
 
-.cool-text em {
-  color:#ff0000
+.red-text {
+  color: #ff0000;
+  font-style: normal;
 }
