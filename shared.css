@@ -18,7 +18,13 @@ nav a {
   font-weight: bolder;
 }
 
-.red-text {
+.red-text-emphasis em {
   color: #ff0000;
   font-style: normal;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
 }
